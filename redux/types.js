@@ -1,0 +1,2 @@
+export const GET_PICTURES = 'GET_PICTURES';
+export const PICTURES_ERROR = 'PICTURES_ERROR';
